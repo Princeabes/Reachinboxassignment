@@ -1,0 +1,11 @@
+{
+  "name": "reachinbox-frontend",
+  "version": "1.0.0",
+  "description": "## Overview This repository contains the code for Reachinbox frontend  App using React with Typescript for an assignment given by Reachinbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
